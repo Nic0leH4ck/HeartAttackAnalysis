@@ -1,6 +1,7 @@
 # HeartAttackAnalysis
 Heart Attack Prediction - SQL Project:
 This project aims to predict the likelihood of a heart attack using a dataset containing various attributes of patients. ()
+
 # Attribute Information:
 1) age-Age of the patient (numeric)
 2) sex-Gender of the patient (0 = female, 1 = male)
